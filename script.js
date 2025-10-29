@@ -6,7 +6,7 @@ async function moistureLevel() {
 
 
 async function main() {
-    let a = await moistureLevel()
+    let a = await moistureLevel
     return a
 }
 
